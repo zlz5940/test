@@ -1,5 +1,5 @@
 /*
- *  1.002
+ *  1.003
  */
 var mysql = require('mysql');
 
